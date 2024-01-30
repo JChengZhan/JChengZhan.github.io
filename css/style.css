@@ -10,21 +10,22 @@ img{
 nav li{
 	    margin: 0 13px;
 }
-#intro .jumbotron{
-	background: url('../pictures/house.jpg');
+#intro .jumbotron {
+	background: url("../pictures/kaohsiung.jpg");
 	background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 50%;
-    height: 70vh;
-    margin-bottom: 0px;
+	background-repeat: no-repeat;
+	background-position: 50%;
+	height: 70vh;
+	margin-bottom: 0px;
 }
 
-#intro .jumbotron .container{
-	position:relative;
-    top: 50%;
-    transform: translate(0, -50%);
+#intro .jumbotron .container {
+		position: relative;
+		top: 50%;
+		transform: translate(0, -50%);
 }
-#intro .btn{
+
+#intro .btn {
 	margin-top: 20px;
 }
 .btn{
